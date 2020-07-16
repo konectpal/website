@@ -1,2 +1,2 @@
 # website
-Official documentation for the Konectpal UI.
+Official documentation for the RBS Home Buyers UI.
